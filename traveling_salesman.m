@@ -19,7 +19,7 @@
 % and |y|, and a geometrically simplified version of the same map in the
 % variables |xx| and |yy|.
 load('usborder.mat','x','y','xx','yy');
-load("H:\Nature Inspired Computing\Assignment 1\variables.mat");
+load("variables.mat");
 
 
 %%
