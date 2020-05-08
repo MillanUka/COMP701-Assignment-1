@@ -26,7 +26,7 @@ load("variables.mat");
 % We will generate random locations of cities inside the border of the
 % United States. We can use the |inpolygon| function to make sure that all
 % the cities are inside or very close to the US boundary.
-cities = 40;
+cities = 200;
 plot(locations(:,1),locations(:,2),'bo');
 
 %%
